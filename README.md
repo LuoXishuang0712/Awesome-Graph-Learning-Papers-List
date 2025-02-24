@@ -23,10 +23,6 @@ We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023]
 
     *Ziyang Liu, Chaokun Wang, Cheng Wu*
 
-1. **VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition**
-
-    *Chenyu Liu, Xinliang Zhou, Jiaping Xiao, Zhengri Zhu, Liming Zhai, Ziyu Jia, Yang Liu*
-
 1. **Explore Internal and External Similarity for Single Image Deraining with Graph Neural Networks**
 
     *Cong Wang, Wei Wang, Chengjin Yu, Jie Mu*
@@ -346,7 +342,6 @@ We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023]
 1. **Continual Multimodal Knowledge Graph Construction**
 
     *Xiang Chen, Jingtian Zhang, Xiaohan Wang, Ningyu Zhang, Tongtong Wu, Yuxiang Wang, Yongheng Wang, Huajun Chen*
-
 
 ### [ICML-2024](#contents)
 ### [KDD-2024](#contents)
