@@ -16,7 +16,7 @@ We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023]
 
 
 
-### [IJCAI-2025](#contents)
+### [AAAI-2025](#contents)
 1. **RingFormer: A Ring-Enhanced Graph Transformer for Organic Solar Cell Property Prediction**
 
     *Zhihao Ding, Ting Zhang, Yiran Li, Jieming Shi, Chen Jason Zhang*
