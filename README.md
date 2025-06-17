@@ -9,10 +9,245 @@ I scanned over the accepted paper lists of top machine learning and data mining 
 We also create the reading lists for [2022](./Graph-Learning-2022.md) and [2023](./Graph-Learning-2023.md) for convenience. 
 
 ## [Contents](#contents)
-  - [AAAI-2025](#aaai-2025) [ICLR-2025](#iclr-2025) [WSDM-2025](#wsdm-2025) [WWW-2025](#www-2025)
+  - [AAAI-2025](#aaai-2025) [ICLR-2025](#iclr-2025) [WSDM-2025](#wsdm-2025) [WWW-2025](#www-2025) [SIGIR-2025](#sigir-2025)
   - [IJCAI-2024](#ijcai-2024) [ICML-2024](#icml-2024) [KDD-2024](#kdd-2024) [SIGIR-2024](#sigir-2024) [NeurIPS-2024](#neurips-2024) [CIKM-2024](#cikm-2024) [AAAI-2024](#aaai-2024) [ICLR-2024](#iclr-2024) [WSDM-2024](#wsdm-2024) [WWW-2024](#www-2024) [ICDE-2024](#icde-2024) [SIGMOD-2024](#sigmod-2024)
   - [IJCAI-2023](#ijcai-2023) [ICML-2023](#icml-2023) [KDD-2023](#kdd-2023) [SIGIR-2023](#sigir-2023) [NeurIPS-2023](#neurips-2023) [CIKM-2023](#cikm-2023) [AAAI-2023](#aaai-2023) [ICLR-2023](#iclr-2023) [WSDM-2023](#wsdm-2023) [WWW-2023](#www-2023) [ICDE-2023](#icde-2023) [SIGMOD-2023](#sigmod-2023) 
   - [IJCAI-2022](#ijcai-2022) [ICML-2022](#icml-2022)  [KDD-2022](#kdd-2022) [SIGIR-2022](#sigir-2022) [NeurIPS-2022](#neurips-2022) [CIKM-2022](#cikm-2022) [AAAI-2022](#aaai-2022) [ICLR-2022](#iclr-2022) [WSDM-2022](#wsdm-2022) [WWW-2022](#www-2022) [ICDE-2022](#icde-2022) [SIGMOD-2022](#sigmod-2022)
+
+
+### [SIGIR-2025](#contents)
+
+1. **Question-Answer Extraction from Scientific Articles Using Knowledge Graphs and Large Language Models**
+
+    *Hosein Azarbonyad, Zi Long Zhu, Georgios Cheirmpos, Zubair Afzal, Vikrant Yadav, George Tsatsaronis*
+
+1. **IGP: Efficient Multi-Vector Retrieval via Proximity Graph Index**
+
+    *Zheng Bian, Man Lung Yiu, Bo Tang*
+
+1. **CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models**
+
+    *Junze Chen, Xinjie Yang, Cheng Yang, Junfei Bao, Zeyuan Guo, Yawen Li, Chuan Shi*
+
+1. **Locality-Sensitive Indexing for Graph-Based Approximate Nearest Neighbor Search**
+
+    *Jun Woo Chung, Huawei Lin, Weijie Zhao*
+
+1. **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**
+
+    *Ziqiang Cui, Yunpeng Weng, Xing Tang, Fuyuan Lyu, Dugang Liu, Xiuqiang He, Chen Ma*
+
+1. **MINTT: Memory Inductive Transfer for Temporal Graph Neural Networks**
+
+    *Tanishq Dubey, Sidharth Agarwal, Shubham Gupta, Srikanta Bedathur*
+
+1. **CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs**
+
+    *Yuntong Hu, Zhihan Lei, Zhongjie Dai, Allen Zhang, Abhinav Angirekula, Zheng Zhang, Liang Zhao*
+
+1. **HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge**
+
+    *Sirui Huang, Hanqian Li, Yanggan Gu, Xuming Hu, Qing Li, Guandong Xu*
+
+1. **Graph Spectral Filtering with Chebyshev Interpolation for Recommendation**
+
+    *Chanwoo Kim, Jinkyu Sung, Yebonn Han, Joonseok Lee*
+
+1. **Hypercomplex Knowledge Graph-Aware Recommendation**
+
+    *Anchen Li, Bo Yang, Huan Huo, Farookh Hussain, Guandong Xu*
+
+1. **Heterogeneous Graph Embedding Made More Practical**
+
+    *Fangfang Li, Huihui Zhang, Wei Li, Wei Wu*
+
+1. **BotBR: Social Bot Detection with Balanced Feature Fusion and Reliability-Enhanced Graph Learning**
+
+    *Qilong Lin, Jingya Zhou*
+
+1. **Towards Accurate Social User Geolocation: MeanShift, Incremental Learning and Graph Convolutional Networks**
+
+    *Yaqiong Qiao, Aobo Jiao, Xiangyang Luo, Chenliang Li, Jiangtao Ma, Chenkai Guo*
+
+1. **Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation**
+
+    *Changle Qu, Liqin Zhao, Yanan Niu, Xiao Zhang, Jun Xu*
+
+1. **BALI: Enhancing Biomedical Language Representations through Knowledge Graph and Language Model Alignment**
+
+    *Andrey Sakhovskiy, Elena Tutubalina*
+
+1. **Flow-guided Direct Preference Optimization for Knowledge Graph Reasoning with Trees**
+
+    *Tiesunlong Shen, Rui Mao, Jin Wang, Xuejie Zhang, Erik Cambria*
+
+1. **Rating-Aware Homogeneous Review Graphs and User Likes/Dislikes Differentiation for Effective Recommendations**
+
+    *Jiwon Son, Hyunjoon Kim, Sang-Wook Kim*
+
+1. **Segmentation Similarity Enhanced Semantic Related Entity Fusion for Multi-modal Knowledge Graph Completion**
+
+    *Yunpeng Wang, Bo Ning, Xin Wang, Chengfei Liu, Guanyu Li*
+
+1. **InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning**
+
+    *Zheng Wang, Teo Shu Xian, Jun Jie Chew, Wei Shi*
+
+1. **Enhancing Homophily in Heterogeneous Graph Contrastive Learning via Connection Strength and Multi-view Self-Expression**
+
+    *Haosen Wang, Chenglong Shi, Can Xu, Surong Yan, Rong Xie, Pan Tang*
+
+1. **MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems**
+
+    *Yibiao Wei, Jie Zou, Weikang Guo, Guoqing Wang, Xing Xu, Yang Yang*
+
+1. **Dynamic Graph Modeling with Contextual and Temporal Relevance**
+
+    *Yuxia Wu, Lizi Liao, Yuan Fang*
+
+1. **AdaRPT: An Adaptive Rule Pattern Transfer Model for Fully Inductive Knowledge Graph Reasoning**
+
+    *Zhiwen Xie, Zhao Zhuo, Jinjin Ma, Guangyou Zhou, Jimmy Xiangji Huang*
+
+1. **Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**
+
+    *Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu*
+
+1. **COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation**
+
+    *Jinfeng Xu, Zheyu Chen, Wei Wang, Xiping Hu, Sang-Wook Kim, Edith Ngai*
+
+1. **From Knowledge Forgetting to Accumulation: Evolutionary Relation Path Passing for Lifelong Knowledge Graph Embedding**
+
+    *Jing Yang, Xinfa Jiang, Xiaowen Jiang, Yuan Gao, Laurence T. Yang, Shaojun Zou, Shundong Yang*
+
+1. **Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**
+
+    *Yonghui Yang, Le Wu, Yuxin Liao, Zhuangzhuang He, Pengyang Shao, Richang Hong, Meng Wang*
+
+1. **UPPR+: Scaling Uncertain Personalised PageRank Computation on Billion-Sized Graphs with Mutually Exclusive Edges**
+
+    *Min Zhang, Weiren Yu*
+
+1. **Highly Efficient Disk-based Nearest Neighbor Search on Extended Neighborhood Graph**
+
+    *Cheng Zhang, Jianzhi Wang, Wan-Lei Zhao, Shihai Xiao*
+
+1. **Adaptive Graph Integration for Cross-Domain Recommendation via Heterogeneous Graph Coordinators**
+
+    *Hengyu Zhang, Chunxu Shen, Xiangguo Sun, Jie Tan, Yu Rong, Chengzhi Piao, Hong Cheng, Lingling Yi*
+
+1. **Leveraging Large Language Models for Effective Label-free Node Classification in Text-Attributed Graphs**
+
+    *Taiyan Zhang, Renchi Yang, Yurui Lai, Mingyu Yan, Xiaochun Ye, Dongrui Fan*
+
+1. **Rethinking Continual Knowledge Graph Embedding: Benchmarks and Analysis**
+
+    *Tianzhe Zhao, Jiaoyan Chen, Yanchi Ru, Qika Lin, Yuxia Geng, Haiping Zhu, Yudai Pan, Jun Liu*
+
+1. **Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning**
+
+    *Leqi Zheng, Chaokun Wang, Ziyang Liu, Canzhi Chen, Cheng Wu, Hongwei Li*
+
+1. **Disentangled Graph Debiasing for Next POI Recommendation**
+
+    *Hailun Zhou, Jiajie Xu, Qiaoming Zhu, Chengfei Liu*
+
+1. **InfoNCE is a Free Lunch for Semantically guided Graph Contrastive Learning**
+
+    *Wang Zixu, Bingbing Xu, Yige Yuan, Huawei Shen, Xueqi Cheng*
+
+1. **Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering**
+
+    *Zheyu Chen, Jinfeng Xu, Yutong Wei, Ziyue Peng*
+
+1. **Graph-Based Multimodal Contrastive Learning for Chart Question Answering**
+
+    *Yue Dai, Soyeon Caren Han, Wei Liu*
+
+1. **RSGEA: Relationship Structure Line Graph for Semi-supervised Entity Alignment based on Edge Weight Adjustment**
+
+    *Linlin Ding, Mengjunyao Si, Mo Li*
+
+1. **KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**
+
+    *Juyeon Kim, Geon Lee, Taeuk Kim, Kijung Shin*
+
+1. **ReCDAP: Relation-based Conditional Diffusion with Attention Pooling for Few-Shot Knowledge Graph Completion**
+
+    *Jeongho Kim, Chanyeong Heo, Jaehee Jung*
+
+1. **Graph-Augmented Retrieval with Memory-Driven Reasoning and Constraint-Aware Filtering for MultiHop QA**
+
+    *Siyuan Li, Yongping Du, Mingyang Li*
+
+1. **Improving Link Sign Prediction in Signed Bipartite Graphs via Balanced Line Graphs**
+
+    *Hongxiang Lin, Yixiao Zhou, Huiying Hu, Xiaoqing Lyu*
+
+1. **The Effects of Demographic Instructions on LLM Personas**
+
+    *Angel Felipe Magnossão de Paula, Shane Culpepper, Alistair Moffat, Sachin Pathiyan Cherumanal, Falk Scholer, Johanne R Trippas*
+
+1. **More Than Just A Conversation: A Multi-agent Reasoning Graph Knowledge Distillation for Conversational Stance Detection**
+
+    *Bingbing Wang, Zhixin Bai, Qianlong Wang, Jingjie Lin, Min Yang, Xi Zeng, Ruifeng Xu*
+
+1. **HTGformer: Heterogeneous Temporal Graph Transformer**
+
+    *Yili Wang*
+
+1. **UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge**
+
+    *Yue Zhang, Yankai Chen, Yingli Zhou, Yucan Guo, Xiaolin Han, Chenhao Ma*
+
+1. **Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**
+
+    *Qiaosheng Chen, Kaijia Huang, Xiao Zhou, Weiqing Luo, Yuanning Cui, Gong Cheng*
+
+1. **A Reproducibility Study of Graph-Based Legal Case Retrieval**
+
+    *Gregor Donabauer, Udo Kruschwitz*
+
+1. **SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing**
+
+    *Xiaoqing Zhang, Yuhan Liu, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan*
+
+1. **Conversational Bibliographic Search**
+
+    *Markus Nilles, Ralf Schenkel*
+
+1. **ROKSANA: An Open-Source Toolkit for Robust Graph-Based Keyword Search**
+
+    *Radin Hamidi Rad, Amir Khosrojerdi, Ebrahim Bagheri*
+
+1. **Fact Verification in Knowledge Graphs Using LLMs**
+
+    *Farzad Shami, Stefano Marchesin, Gianmaria Silvello*
+
+1. **Towards Enhanced Agricultural Information Access in Kiswahili: Integrating Knowledge Graphs and Retrieval-Augmented Generation**
+
+    *Joseph Telemala, Neema Lyimo, Anna Kimaro, Camilius Sanga*
+
+1. **Graph Isomorphism Network-Based Cohort Modeling in Click-Through Rate Prediction**
+
+    *Xuan Ma, Hao Peng, Jia Duan, Zhanhao Ye, Langlang Ye, Zehua Zhang, Jie He, Changping Peng and Zhangang Lin*
+
+1. **Inquiry Assistant Using LLM-Generated Knowledge Graphs**
+
+    *István Varga and Yuta Yamashita*
+
+1. **Ontology-Guided Knowledge Graph Retrieval for Multi-Hop and Cross-Granularity Store Fulfillment Queries**
+
+    *Mengyue Zhao, Matthew Nokleby, Bo Shen, Wenbo Dong, Deepti Pachauri and Andrew Yang*
+
+1. **A Knowledge Graph Embedding Model for Answering Factoid Entity Questions**
+
+    *Parastoo Jafarzadeh, Faezeh Ensan, Mahdiyar Ali Akbar Alavi and Fattane Zarrinkalam*
+
+1. **Graph-Enhanced Prompt Learning for Cross-Domain Contract Element Extraction**
+
+    *Zihan Wang, Hanbing Wang, Pengjie Ren, Zhumin Chen, Maarten de Rijke and Zhaochun Ren*
 
 
 
